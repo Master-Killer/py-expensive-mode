@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-07-04
+  Features:
+    - Initial release, extracted from personal tweaks previously developed inside md-py-tweaks.
+    - Recipe chains with automatic amount calculation (mounts, TURD mounts, armors, wind turbines, tanks, chests, caravans).
+    - Armor packing recipes to bypass the stack size limit of 1 in assembling machines.
+    - Alien life module tweaks (arqad breeding/maturing recipes mk02-mk04).
+    - Full Space Extension Mod (SpaceX) rebalance for Pyanodons with fixed ingredient amounts: space science in all SpaceX techs, reworked drydock/fuel-cell/fusion-reactor/life-support/laser-cannon/space-ai-robot recipes and more.
+    - Support for the fusion-generator stage 3 component added by SpaceModExpensivePatch.

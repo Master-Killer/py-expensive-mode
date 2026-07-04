@@ -1,0 +1,18 @@
+{
+  "name": "py-expensive-mode",
+  "version": "0.1.0",
+  "factorio_version": "2.0",
+  "title": "Py Expensive Mode",
+  "author": "Temerition",
+  "contact": "",
+  "homepage": "",
+  "description": "An expensive rebalance for Pyanodons: end-game recipe chains (mounts, armors, wind turbines, tanks and chests) and a full Space Extension Mod overhaul with fixed, massively increased costs. SpaceX rebalance based on MadDuck's Py Tweaks by MdStudio5.",
+  "dependencies": [
+    "base >= 2.0.28",
+    "pypostprocessing >= 3.0.23",
+    "pyalternativeenergy >= 3.1.21",
+    "? SpaceModExpensivePatch >= 1.4.0",
+    "? SpaceModFeorasFork >= 1.3.0",
+    "? md-py-tweaks >= 1.0.8"
+  ]
+}
