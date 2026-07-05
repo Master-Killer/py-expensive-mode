@@ -29,6 +29,7 @@ confirmer avant implémentation.
 | [11-turd-obligatoire](11-turd-obligatoire.md) | Items-serrures à trois clés, rocket parts escaladantes | — |
 | [12-chocs-carburant](12-chocs-carburant.md) | Paliers de choc solide/liquide/chaleur, biomasse vs fossile | 03, 04 |
 | [13-filieres-energie](13-filieres-energie.md) | Chaque filière pyAE devient un passage obligé | 01, 03, 11 |
+| [**14-nouveau-royaume-du-vivant**](14-nouveau-royaume-du-vivant.md) | **Pièce maîtresse** : un nouveau royaume du vivant dès le début, réunissant tous les archétypes de chaîne (3 candidats + forme unifiée) | 01, 03, 07, 08 |
 
 Historique : [IDEES.md](../IDEES.md) (tri initial), [PROPOSITIONS.md](../PROPOSITIONS.md)
 (synthèse v1 — remplacée par ces documents pour le détail).
