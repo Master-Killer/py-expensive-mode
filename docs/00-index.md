@@ -25,7 +25,7 @@ confirmer avant implémentation.
 | [07-vivant-nourriture](07-vivant-nourriture.md) | Bâtiments d'élevage en burner-nourriture, chaînes qualité | — |
 | [08-alien-interconnexions](08-alien-interconnexions.md) | Zipir↔Xyhiphoe, gelée royale, vonix→wyrmhole, amorçages croisés | 07 |
 | [09-montures-armures](09-montures-armures.md) | Boucle mech parts → armures → selles → montures → tier supérieur | 01, 02 |
-| [10-science-packs](10-science-packs.md) | Chaînage des packs N ← N−1 avec facteur réglable | — |
+| [10-science-packs](10-science-packs.md) | Packs consommés par la famille `earth-*-sample` (data-array), étendue aux 5 packs et 2 espèces non couvertes | 07, 08 |
 | [11-turd-obligatoire](11-turd-obligatoire.md) | Items-serrures à trois clés, rocket parts escaladantes | — |
 | [12-chocs-carburant](12-chocs-carburant.md) | Paliers de choc solide/liquide/chaleur, biomasse vs fossile | 03, 04 |
 | [13-filieres-energie](13-filieres-energie.md) | Chaque filière pyAE devient un passage obligé | 01, 03, 11 |
