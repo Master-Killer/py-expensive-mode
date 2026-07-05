@@ -1,0 +1,15 @@
+name: Tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  luaunit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: leafo/gh-actions-lua@v10
+        with:
+          luaVersion: "5.4"
+      - run: lua tests/test_recipe_helpers.lua -v
