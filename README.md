@@ -36,8 +36,12 @@ SpaceModFeorasFork too, but without the fusion generator component.
 
 ## Development
 
-Unit tests for the recipe graph helpers run with plain Lua:
+Unit tests for the recipe graph helpers use [LuaUnit](https://github.com/bluebird75/luaunit)
+(vendored in `tests/luaunit.lua`, BSD licensed — see `tests/LICENSE-luaunit.txt`) and run with
+plain Lua, no LuaRocks or other dependencies required:
 
 ```
-lua tests/test_recipe_helpers.lua
+lua tests/test_recipe_helpers.lua -v
 ```
+
+CI runs the same command on every push/PR (see `.github/workflows/tests.yml`).
