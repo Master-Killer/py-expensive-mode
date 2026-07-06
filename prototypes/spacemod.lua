@@ -368,7 +368,6 @@ RECIPE("habitation")
 -- sustainable source of all kinds of delicious bio material. Tholin extractors are able to draw the tiny amounts of
 -- tholins that float around space to sustain the base materials needed for growth. Using the scrumptious biomass, bio
 -- printers turn it into any meal imaginable -- chemical plants are used to provide a wide array of flavor additives.
---TODO il faudrait aussi changer les batiments associés aux modules
 RECIPE("life-support")
         :clear_ingredients()
         :add_ingredient {type = "item", name = "express-transport-belt", amount = 500}
@@ -381,11 +380,14 @@ RECIPE("life-support")
         :add_ingredient {type = "item", name = "py-tank-10000", amount = 8}
         :add_ingredient {type = "item", name = "ht-pipes", amount = 300}
         :add_ingredient {type = "item", name = "tuuphra-plantation-mk04", amount = 5}
+        :add_ingredient {type = "item", name = "guar-gum-plantation-mk04", amount = 5}
         :add_ingredient {type = "item", name = "guar-mk04", amount = 200}
         :add_ingredient {type = "item", name = "yotoi-aloe-orchard-mk04", amount = 5}
+        :add_ingredient {type = "item", name = "ulric-corral-mk04", amount = 5}
         :add_ingredient {type = "item", name = "ulric-mk04", amount = 500}
         :add_ingredient {type = "item", name = "botanical-nursery-mk04", amount = 10}
         :add_ingredient {type = "item", name = "ez-ranch-mk04", amount = 5}
+        :add_ingredient {type = "item", name = "simik-den-mk04", amount = 5}
         :add_ingredient {type = "item", name = "simik-mk04", amount = 200}
         :add_ingredient {type = "item", name = "arqad-hive-mk04", amount = 5}
         :add_ingredient {type = "item", name = "arqad-mk04", amount = 200}
