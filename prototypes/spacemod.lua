@@ -379,14 +379,11 @@ RECIPE("life-support")
         :add_ingredient {type = "item", name = "multiblade-turbine-mk03", amount = 5}
         :add_ingredient {type = "item", name = "py-tank-10000", amount = 8}
         :add_ingredient {type = "item", name = "ht-pipes", amount = 300}
-        :add_ingredient {type = "item", name = "tuuphra-plantation-mk04", amount = 5}
         :add_ingredient {type = "item", name = "guar-gum-plantation-mk04", amount = 5}
         :add_ingredient {type = "item", name = "guar-mk04", amount = 200}
-        :add_ingredient {type = "item", name = "yotoi-aloe-orchard-mk04", amount = 5}
         :add_ingredient {type = "item", name = "ulric-corral-mk04", amount = 5}
         :add_ingredient {type = "item", name = "ulric-mk04", amount = 500}
         :add_ingredient {type = "item", name = "botanical-nursery-mk04", amount = 10}
-        :add_ingredient {type = "item", name = "ez-ranch-mk04", amount = 5}
         :add_ingredient {type = "item", name = "simik-den-mk04", amount = 5}
         :add_ingredient {type = "item", name = "simik-mk04", amount = 200}
         :add_ingredient {type = "item", name = "arqad-hive-mk04", amount = 5}
