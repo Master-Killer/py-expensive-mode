@@ -116,6 +116,7 @@ trains fluides) et les outils (Factory Planner les gère, mais vérifier YAFC/He
 |---|---|---|---|
 | Choc carburant solide 1 : BOF ; choc 2 : sinter plant | Passer ces machines en `burner` (ou ajouter le combustible en ingrédient de recette, plus lisible dans les planners). Différenciation biomasse/fossile via des fuel categories distinctes → deux économies de combustible parallèles. | M | Haute |
 | Choc carburant liquide, choc chaleur | Identifier les machines candidates (chaleur → lien direct avec la mécanique heat de pyhardmode, §3.9). | M | Moyenne |
+| Dualité carburant *liquide* fossile/bio : fluides biologiques (blood, simik-blood, bio-oil, fish-oil…) énergisés, incompatibles avec les carburants fossiles | **Faisable, mais pas par catégories** : le moteur n'a pas de fuel categories pour les fluides (items seulement) ; un brûleur fluide filtre au plus UN fluide, sans filtre il brûle tout. → convergence des fluides bio en un `liquid-biofuel` unique + variantes de bâtiments filtrées (pattern oil-powerplant mk1-4). Détail et verdict moteur : doc 12. | M | Moyenne |
 
 ### 3.8 Recettes « capstone » transversales
 
